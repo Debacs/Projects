@@ -1,6 +1,1 @@
-Create Table ProjectInfo(
-ProjectID INT
-ProjectName varchar(50),
-Budget INT,
-ApprovalDate datetime
-);
+
